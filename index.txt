@@ -1,1 +1,7 @@
-test branch với trường hợp emergency
+Giờ test khi đang học branch nè!
+thêm vài dòng nè
+thêm vài dong nữa
+hé hé
+hô hô
+
+Edit: cái này đã chỉnh lại để thực hiện chống conflict nhá
