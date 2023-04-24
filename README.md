@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 Now we will test pushing a branch to GitHub
+
+we will test pushing a branch to a branch of GitHub
