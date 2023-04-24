@@ -7,4 +7,8 @@ hô hô
 Edit: cái này đã chỉnh lại để thực hiện chống conflict nhá
 
 Giờ thêm dòng để test push lên GitHub
+
 Hmm, test branch GitHub nè :>>
+Test thành công gòi nhá ><
+
+Chắc là giờ test cái push lên á :333
